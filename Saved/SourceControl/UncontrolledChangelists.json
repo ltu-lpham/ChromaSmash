@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/Levels/Level1.umap",
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/Blueprints/GM_ChromaSmash.uasset",
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/StaticMeshes/Paddle.uasset",
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/StaticMeshes/Ball.uasset",
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/StaticMeshes/Block.uasset",
+				"C:/Users/lpham/Documents/Unreal Projects/ChromaSmash/Content/StaticMeshes/Bounds.uasset"
+			]
+		}
+	]
+}
